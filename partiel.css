@@ -1,0 +1,76 @@
+body{
+    margin: 10;
+    padding: 0;
+
+}
+.tete {
+    
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+
+.tete img{
+    height:55px ;
+    display: flex;
+
+}
+.drt {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.button  {
+    background-color: rgb(233, 198, 24);
+    border-radius: 30%;
+   align-items: center; 
+}
+.mom{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    display: flex;
+    align-items:center;
+}
+.jn{
+    color: aliceblue;
+    background-color: yellow;
+     height: 25px;
+    width: 70px;
+    border-radius: 33%;
+
+}
+ .mom h2{
+    height: 40%;
+    color: yellow;
+
+ }
+
+ .droite img{
+    height: 300px;
+ }
+
+ .mom2 {
+    margin: 7%;
+    text-align: center;
+ }
+
+
+ .haut {
+    margin: 9%;
+    display: flex;
+   gap: 5rem;
+   
+ }
+
+ .haut img{
+    background-color: rgb(231, 231, 163);
+  
+ }
+ .bas {
+    display: flex;
+    gap: 5rem;
+    padding: 90px;
+ }
